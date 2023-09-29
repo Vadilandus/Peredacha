@@ -1,0 +1,86 @@
+.logo {
+    margin-left: 5%;
+    display:inline-block;
+}
+.Phone {
+    display: inline-block;
+    font-size: 24px;
+    float: right;
+    margin-right: 8.5%;
+}
+.stroke {
+    display: block;
+    margin-left: 5%;
+    margin-top: 50px;
+    margin-right: 6%;
+    
+}
+.middle{
+    vertical-align: middle;
+}
+#Main {
+    text-align: center;
+    width: 16%;
+    height: 50px;
+    background-color:aqua;
+    display: inline-block;
+}
+#travel {
+    text-align: center;
+    width: 16%;
+    height: 50px;
+    background-color: greenyellow;
+    display: inline-block;
+}
+#pay {
+    text-align: center;
+    width: 16%;
+    height: 50px;
+    background-color: yellow;
+    display: inline-block;
+}
+#actio {
+    text-align: center;
+    width: 16%;
+    height: 50px;
+    background-color: blue;
+    display: inline-block;
+}
+#Stati {
+    text-align: center;
+    width: 16%;
+    height: 50px;
+    background-color: red;
+    display: inline-block;
+}
+#Contact {
+    text-align: center;
+    width: 16%;
+    height: 50px;
+    background-color: purple;
+    display: inline-block;
+}
+.main-table {
+    width: 100%;
+    height: 100%;
+}
+
+.slidebar {
+    display: inline-block;
+}
+
+.slide {
+    display: block;
+    background-color: red;
+    width: 150px;
+    height: 50px;
+}
+
+.main-news {
+    margin-top: 50px;
+    margin-right: 50%;
+    float: right;
+    height: 250px;
+    width: 150px;
+    background-color: black;
+}

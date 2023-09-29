@@ -1,0 +1,11 @@
+.logo {
+    display: inline-block;
+}
+.number {
+    display: inline-block;
+    margin-left: 500px;
+}
+.Header {
+    padding-left: 5%;
+    padding-right: 5%;
+}
