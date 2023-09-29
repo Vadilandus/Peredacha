@@ -1,0 +1,107 @@
+[
+    {
+        "args": {
+            "dirs": []
+        }, 
+        "caption": "New File", 
+        "command": "new_file_at"
+    }, 
+    {
+        "args": {
+            "paths": []
+        }, 
+        "caption": "Rename…", 
+        "command": "rename_path"
+    }, 
+    {
+        "args": {
+            "files": [], 
+            "prompt": false
+        }, 
+        "caption": "Delete File", 
+        "command": "delete_file"
+    }, 
+    {
+        "args": {
+            "dirs": []
+        }, 
+        "caption": "Open Folder…", 
+        "command": "open_folder"
+    }, 
+    {
+        "args": {
+            "files": []
+        }, 
+        "caption": "Open Containing Folder…", 
+        "command": "open_containing_folder"
+    }, 
+    {
+        "args": {
+            "dirs": []
+        }, 
+        "caption": "Reveal Link Source", 
+        "command": "reveal_link_source"
+    }, 
+    {
+        "caption": "-", 
+        "id": "repo_commands"
+    }, 
+    {
+        "args": {
+            "paths": []
+        }, 
+        "caption": "Open Git Repository…", 
+        "command": "sublime_merge_open_repo"
+    }, 
+    {
+        "args": {
+            "files": []
+        }, 
+        "caption": "File History…", 
+        "command": "sublime_merge_file_history"
+    }, 
+    {
+        "args": {
+            "paths": []
+        }, 
+        "caption": "Folder History…", 
+        "command": "sublime_merge_folder_history"
+    }, 
+    {
+        "args": {
+            "files": []
+        }, 
+        "caption": "Blame File…", 
+        "command": "sublime_merge_blame_file"
+    }, 
+    {
+        "caption": "-", 
+        "id": "folder_commands"
+    }, 
+    {
+        "args": {
+            "dirs": []
+        }, 
+        "caption": "New Folder…", 
+        "command": "new_folder"
+    }, 
+    {
+        "args": {
+            "dirs": [], 
+            "prompt": true
+        }, 
+        "caption": "Delete Folder", 
+        "command": "delete_folder"
+    }, 
+    {
+        "args": {
+            "dirs": []
+        }, 
+        "caption": "Find in Folder…", 
+        "command": "find_in_folder"
+    }, 
+    {
+        "caption": "-", 
+        "id": "end"
+    }
+]
